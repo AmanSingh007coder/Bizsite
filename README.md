@@ -1,12 +1,26 @@
-# React + Vite
+# Bizsite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bizsite – A clean and responsive business website built with React.js & Tailwind CSS.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive and modern UI/UX design  
+- Business-focused layout  
+- Built with React.js & Tailwind CSS  
+- Reusable and modular components  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- React.js  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+
+
+✨ Learnings
+
+While building Bizsite, I practiced:
+
+Component-based design in React
+Responsive layouts with Tailwind CSS
+UI/UX principles for business websites
+
