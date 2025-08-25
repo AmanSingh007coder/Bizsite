@@ -20,7 +20,9 @@ Bizsite – A clean and responsive business website built with React.js & Tailwi
 
 While building Bizsite, I practiced:
 
-Component-based design in React
-Responsive layouts with Tailwind CSS
-UI/UX principles for business websites
+Component-based design in React, 
+
+Responsive layouts with Tailwind CSS, 
+
+UI/UX principles for business websites, 
 
